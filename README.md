@@ -55,7 +55,7 @@
 
 Hi, I'm [Trihash](https://github.com/trihash), a Full Stack Developer 🚀, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Trihash/Trihash/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -63,7 +63,7 @@ Hi, I'm [Trihash](https://github.com/trihash), a Full Stack Developer 🚀, curr
 - 🌱 I’m currently learning GraphQL and C++; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Trihash](https://twitter.com/Trihash);
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+- 📝[Resume](https://twitter.com/Trihash)
 
 **Languages and Tools:**  
 
