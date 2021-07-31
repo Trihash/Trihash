@@ -55,7 +55,7 @@
 
 Hi, I'm [Trihash](https://github.com/trihash), a Full Stack Developer 🚀, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://i2.wp.com/owdin.live/wp-content/uploads/2018/12/agifcolossaltd2opt.gif?fit=640%2C540&ssl=1&resize=350%2C200" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
