@@ -78,17 +78,6 @@ Hi, I'm [Trihash](https://github.com/trihash), a Full Stack Developer 🚀, curr
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-OSINT        15 hrs 43 mins  ██████████████████░░░░░░░░   78.87 % 
-Vue.js       6 hrs 21 mins   ████████████████░░░░░░░░░   63.97 % 
-C++          4 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.66 % 
-Markdown     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Git Config   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-TeX          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-```
-<!--END_SECTION:waka-->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
