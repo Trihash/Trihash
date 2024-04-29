@@ -21,21 +21,17 @@ BLINDLY COPYING my profile readme format. Design your own that
 <pre>
  ~> <strong>cat note.txt</strong>
 1. If I'm not responding to any of your PRs or issues,
-   feel free to remind me via <a href="mailto:aloegarten@lilith.pm">email</a>.
+   feel free to remind me via <a href="mailto:aloegarten@1337.am">email</a>.
 2. I use sourcehut (primarily) to host my repositories.
    Most of them has github mirrors.
- 
- ~> <strong>ls socials</strong>
- Fediverse: <a href="https://tilde.zone/@hedy">@aloegarten@lilith.pm</a>
 
  ~> <strong>finger hedy</strong>
 Login: trihash                             Name: trihash
 Directory: /home/trihash                   Shell: /usr/bin/fish
 Project:
   - <a href="https://github.com/trihash/dotfiles">dotfiles</a>
-  - Working on my web, gemini, and spartan site, <a href="https://hedy.tilde.cafe">check it out</a>!
+  - Working on my web, gemini, and spartan site, check it out!
   - Drafting (b|gem|ph|sh)log posts - but not publishing :>
-  - Working on <a href="https://github.com/hedyhli/gelim">gelim</a> (terminal gemini client) and <a href="https://github.com/hedyhli/spsrv">spsrv</a> (spartan server).
 Plan:
   Learning \o/
 </pre>
